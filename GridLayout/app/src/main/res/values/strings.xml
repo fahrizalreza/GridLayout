@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GridLayout</string>
+    <string name="car_feature">CAR FEATURE</string>
+    <string name="seat_heater">Seat heater</string>
+    <string name="rain_sensor">Rain sensor</string>
+    <string name="door_lock">Door lock</string>
+    <string name="key_not_in_vehicle">Key not in vehicle</string>
+    <string name="boot_open">Boot open</string>
+    <string name="battery_low">Battery low</string>
+    <string name="no_key">No key</string>
+
+</resources>
